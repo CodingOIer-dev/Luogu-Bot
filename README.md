@@ -8,7 +8,6 @@
   <a href="https://www.luogu.com.cn/chat?uid=754324">
     <img src="https://fecdn.luogu.com.cn/luogu/logo.png" alt="Logo" height="80">
   </a>
-
   <h3 align="center">洛谷机器人</h3>
   <p align="center">
     为你的在洛谷的 OI 生活增加一份乐趣
@@ -16,20 +15,17 @@
     <a href="https://github.com/CodingOIer/Luogu-Bot"><strong>探索本项目的文档 »</strong></a>
     <br />
     <br />
-    <a href="https://www.luogu.com.cn/chat?uid=754324">查看Demo</a>
+    <a href="https://www.luogu.com.cn/chat?uid=754324">查看 Demo</a>
     ·
-    <a href="https://github.com/CodingOIer/Luogu-Bot/issues">报告Bug</a>
+    <a href="https://github.com/CodingOIer/Luogu-Bot/issues">报告 Bug</a>
     ·
     <a href="https://github.com/CodingOIer/Luogu-Bot/issues">提出新特性</a>
   </p>
+
 </p>
 
 
  本篇 README.md 面向开发者
-
-## 目录
-
-[TOC]
 
 ### 上手指南
 
