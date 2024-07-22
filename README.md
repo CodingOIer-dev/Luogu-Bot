@@ -103,7 +103,7 @@ wanghongtiancodingoier@outlook.com
 
 ### 版权说明
 
-该项目签署了 GNU GPLv3 授权许可，详情请参阅 [LICENSE.txt](https://github.com/CodingOIer/Luogu-Bot/blob/master/LICENSE.txt)
+该项目签署了 GNU GPLv3 授权许可，详情请参阅 [LICENSE.txt](https://github.com/CodingOIer/Luogu-Bot/blob/main/LICENSE.txt)
 
 ### 鸣谢
 
