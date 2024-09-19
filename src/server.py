@@ -1,5 +1,5 @@
 from loguru import logger as log
-import src.luogu as requests
+import luogu as requests
 import json
 import time
 import openai
